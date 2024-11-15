@@ -12,9 +12,7 @@ Um sistema para ajudar alunos a gerenciar suas atividades acadêmicas de forma e
   <a href="#-como-executar-o-projeto">Execução</a>
 </p>
 
-<p align="center">
-  <img alt="Sistema de Agenda" src="img/prototype.png" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias Utilizadas
 
